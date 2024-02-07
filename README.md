@@ -1,0 +1,1 @@
+This is the website for the Open Legal Questions project, which collates and explains open questions of law, to assist practising lawyers to notice these issues, and in turn to resolve the questions in the courts.
